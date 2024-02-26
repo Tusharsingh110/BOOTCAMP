@@ -1,2 +1,0 @@
-This is first branch 1 updated in main.
-this is the second line of the file.
